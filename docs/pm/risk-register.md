@@ -53,12 +53,12 @@
 
 ### Si se materializa R-001 (Demora en Admin):
 1. Escalar a Valentín inmediatamente
-2. Buscar usuario alternativo con permisos limitados
+2. Buscar usuario alternativo con permisos  
 3. Trabajar en paralelo en documentación mientras se resuelve
 
 ### Si se materializa R-003 (Bugs cerca del deadline):
-1. Priorizar solo bugs críticos (P0)
-2. Documentar bugs P1/P2 para fase posterior
+1. Priorizar solo bugs críticos (P0) 
+2. Documentar bugs P1/P2 para fase posterior 
 3. Comunicar status transparente a stakeholders
 
 ---

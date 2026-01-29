@@ -15,11 +15,12 @@
 ### 🚀 En Progreso
 - Gestión de usuario Admin para máquina de pruebas
 - Equipo realizando ambientación
+- Sesión con Gustavo para obtener imagen de Windows 11
 
 ### 🎯 Próximos Pasos
 - [ ] Completar obtención de accesos
-- [ ] Revisar archivo de Onboarding
-- [ ] *Pendiente de tareas específicas del usuario*
+
+
 
 ### ⚠️ Blockers
 - Ninguno crítico

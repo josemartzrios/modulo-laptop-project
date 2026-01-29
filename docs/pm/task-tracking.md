@@ -8,10 +8,11 @@
 
 | ID | Tarea | Owner | Fecha | Status | Notas |
 |----|-------|-------|-------|--------|-------|
-| T-01 | Solicitud de archivos y carpetas para ambiente espejo a producción | Carlos Osvaldo (Arq) | 28 Ene | ⬜ Pendiente | 1 día estimado |
-| T-02 | Generar cronograma de seguimiento y monitoreo de actividades | Valentín López (Líder) | 28 Ene | ⬜ Pendiente | - |
-| T-03 | Documentar escenario del equipo de Alberto Alvarado | José Francisco (Analista) | 28 Ene | ⬜ Pendiente | Documentar ambientación |
+| T-01 | Solicitud de archivos y carpetas para ambiente espejo a producción | Carlos Osvaldo (Arq) | 28 Ene | ⬜ Completado | 1 día estimado |
+| T-02 | Generar cronograma de seguimiento y monitoreo de actividades | Valentín López (Líder) | 28 Ene | ⬜ Completado | - |
+| T-03 | Documentar escenario del equipo de Alberto Alvarado | José Francisco (Analista) | 28 Ene | ⬜ En progreso | Documentar ambientación |
 | T-04 | Revisión de flujo: Ejecución y análisis del proceso de Registro en laptop | Programadores, Alexis (Tester) | 28 Ene | ⬜ Pendiente | - |
+| T-05 | Reunión de approach sobre tracking de actividades en Jira con Agile Coach | Equipo | ⬜ Pendiente | - |
 
 ---
 
@@ -19,8 +20,8 @@
 
 | ID | Tarea | Owner | Fecha | Status | Notas |
 |----|-------|-------|-------|--------|-------|
-| T-05 | Validación de ejecutables: Identificación de dependencias de .exe de registro | Jorge Ceballos, Alexis (Tester) | 29 Ene | ⬜ Pendiente | Estimado |
-| T-06 | Validación de hardware: Pruebas de conexión de periféricos en equipo asignado | Manuel Tinoco, Alexis (Tester) | 29 Ene | ⬜ Pendiente | Estimado |
+| T-06 | Validación de ejecutables: Identificación de dependencias de .exe de registro | Jorge Ceballos, Alexis (Tester) | 29 Ene | ⬜ Pendiente | Estimado |
+| T-07 | Validación de hardware: Pruebas de conexión de periféricos en equipo asignado | Manuel Tinoco, Alexis (Tester) | 29 Ene | ⬜ Pendiente | Estimado |
 
 ---
 
@@ -28,9 +29,9 @@
 
 | ID | Tarea | Owner | Fecha | Status | Notas |
 |----|-------|-------|-------|--------|-------|
-| T-07 | Revisión de políticas de grupo que restringen instalación de software | Carlos Osvaldo (Arq) | 30 Ene | ⬜ Pendiente | Si se requiere |
-| T-08 | Pruebas de periféricos: Familiarización con software de captura (huella/firma) | Manuel Tinoco | 30 Ene | ⬜ Pendiente | - |
-| T-09 | Pruebas de conectividad: Verificación de acceso a portales y servicios web | Jorge Ceballos | 30 Ene | ⬜ Pendiente | - |
+| T-08 | Revisión de políticas de grupo que restringen instalación de software | Carlos Osvaldo (Arq) | 30 Ene | ⬜ Pendiente | Si se requiere |
+| T-09 | Pruebas de periféricos: Familiarización con software de captura (huella/firma) | Manuel Tinoco | 30 Ene | ⬜ Pendiente | - |
+| T-10 | Pruebas de conectividad: Verificación de acceso a portales y servicios web | Jorge Ceballos | 30 Ene | ⬜ Pendiente | - |
 
 ---
 
@@ -40,7 +41,6 @@
 
 | ID | Tarea | Owner | Status | Notas |
 |----|-------|-------|--------|-------|
-| T-10 | Liberación de Laptop: Confirmar primer login exitoso de usuario de dominio | Carlos Osvaldo (Arq) | ⬜ Pendiente | - |
 | T-11 | Gestión de usuario para acceso a equipo Laptop con arquitectura | Equipo | ⬜ Pendiente | - |
 | T-12 | Reunión con equipo habilitador de permisos y usuario de acceso a Laptop | Equipo | ⬜ Pendiente | - |
 
@@ -80,7 +80,7 @@
 
 | ID | Tarea | Owner | Status | Notas |
 |----|-------|-------|--------|-------|
-| T-25 | Reunión de approach sobre tracking de actividades en Jira con Agile Coach | Equipo | ⬜ Pendiente | - |
+
 
 ---
 
