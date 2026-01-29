@@ -8,7 +8,7 @@
 
 | ID | Riesgo | Probabilidad | Impacto | Severidad | Owner | Mitigación | Status |
 |----|--------|--------------|---------|-----------|-------|------------|--------|
-| R-001 | Demora en obtención usuario Admin | Media | Alto | 🔴 Crítico | Valentín | Escalamiento temprano, buscar alternativas de acceso | 🟢 Mitigado |
+| R-001 | Demora en alta de usuarios con permisos sys/temp | Media | Alto | 🔴 Crítico | Alberto Cebreros | Carta firmada enviada, dar seguimiento | 🟡 Monitoreando |
 | R-002 | Problemas de compatibilidad imagen PC con periféricos Laptop | Alta | Alto | 🔴 Crítico | Equipo técnico | Validar post-instalación, tener imagen específica como Plan B | 🟡 Monitoreando |
 | R-003 | Bugs críticos encontrados cerca del deadline | Alta | Alto | 🔴 Crítico | Manuel/Jorge | Buffer tiempo, solo impedimentos (no defectos), priorización P0 | ⬜ Pendiente |
 | R-004 | Falta de documentación técnica existente | Baja | Medio | 🟡 Medio | José Francisco | Manual existente disponible, sesiones con Osvaldo | 🟢 Mitigado |

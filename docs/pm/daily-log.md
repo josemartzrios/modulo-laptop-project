@@ -26,7 +26,7 @@
 - [ ] Luis Alejandro: familiarizarse con manual de flujo
 
 ### ⚠️ Blockers
-- Ninguno crítico
+- Ninguno crítico para instalación de imagen (se puede usar cualquier usuario)
 
 ### 📝 Notas
 - ⚠️ Riesgo: Imagen basada en PC puede tener problemas con periféricos de laptop
@@ -38,11 +38,13 @@
 
 | # | Pendiente | Owner | Status |
 |---|-----------|-------|--------|
-| 1 | Solicitar acceso campus febrero | Luis Alejandro (NTT) | ⬜ |
-| 2 | Agendar reunión Agile Coach (Julio César) | José Francisco | ⬜ |
-| 3 | Familiarizarse con flujo usando manual | Luis Alejandro (NTT) | ⬜ |
-| 4 | Correo componentes Desarrollo Especiales | Daniel Castro | ⬜ |
-| 5 | Sesión Agile Coach con tareas definidas | Valentín + Equipo | ⬜ |
+| 1 | Instalar imagen Win11 en laptop (ambientar máquina) | Daniel Soto | ⬜ |
+| 2 | Alta de usuarios programadores con permisos sys/temp (carta firmada) | Alberto Cebreros | ⬜ |
+| 3 | Solicitar acceso campus febrero | Luis Alejandro (NTT) | ⬜ |
+| 4 | Agendar reunión Agile Coach (Julio César) | José Francisco | ⬜ |
+| 5 | Familiarizarse con flujo usando manual | Luis Alejandro (NTT) | ⬜ |
+| 6 | Correo componentes Desarrollo Especiales | Daniel Castro | ⬜ |
+| 7 | Sesión Agile Coach con tareas definidas | Valentín + Equipo | ⬜ |
 
 ---
 
