@@ -1,27 +1,29 @@
 # 📊 Task Tracking - Módulo Laptop
 
-> **Status General**: 🟡 En Progreso | **Deadline**: 6 Feb 2026 | **Días restantes**: 9
+> **Status General**: 🟡 En Progreso | **Deadline**: 6 Feb 2026 | **Días restantes**: 8
 
 ---
 
-## 📅 28 de Enero (Hoy)
+## 📅 28 de Enero
 
 | ID | Tarea | Owner | Fecha | Status | Notas |
 |----|-------|-------|-------|--------|-------|
-| T-01 | Solicitud de archivos y carpetas para ambiente espejo a producción | Carlos Osvaldo (Arq) | 28 Ene | ⬜ Completado | 1 día estimado |
-| T-02 | Generar cronograma de seguimiento y monitoreo de actividades | Valentín López (Líder) | 28 Ene | ⬜ Completado | - |
-| T-03 | Documentar escenario del equipo de Alberto Alvarado | José Francisco (Analista) | 28 Ene | ⬜ En progreso | Documentar ambientación |
-| T-04 | Revisión de flujo: Ejecución y análisis del proceso de Registro en laptop | Programadores, Alexis (Tester) | 28 Ene | ⬜ Pendiente | - |
-| T-05 | Reunión de approach sobre tracking de actividades en Jira con Agile Coach | Equipo | ⬜ Pendiente | - |
+| T-01 | Solicitud de archivos y carpetas para ambiente espejo a producción | Carlos Osvaldo (Arq) | 28 Ene | 🟢 Completado | 1 día estimado |
+| T-02 | Generar cronograma de seguimiento y monitoreo de actividades | Valentín López (Líder) | 28 Ene | 🟢 Completado | - |
+| T-03 | Documentar escenario del equipo de Alberto Alvarado | José Francisco (Analista) | 28 Ene | 🟡 En progreso | Documentar ambientación |
+| T-04 | Envío de formato de permisos firmado | Rigo | 28 Ene | 🟢 Completado | Permisos lectura/escritura carpetas |
 
 ---
 
-## 📅 29 de Enero
+## 📅 29 de Enero (Hoy)
 
 | ID | Tarea | Owner | Fecha | Status | Notas |
 |----|-------|-------|-------|--------|-------|
-| T-06 | Validación de ejecutables: Identificación de dependencias de .exe de registro | Jorge Ceballos, Alexis (Tester) | 29 Ene | ⬜ Pendiente | Estimado |
-| T-07 | Validación de hardware: Pruebas de conexión de periféricos en equipo asignado | Manuel Tinoco, Alexis (Tester) | 29 Ene | ⬜ Pendiente | Estimado |
+| T-05 | Envío de imagen Windows 11 a Daniel Soto | Gustavo López | 29 Ene | 🟡 En progreso | URL en manual |
+| T-06 | Compartir manual con URL de imagen | Gustavo López → Marcos Alberto | 29 Ene | ⬜ Pendiente | - |
+| T-07 | Solicitar acceso campus febrero | Luis Alejandro Peraza (NTT) | 29 Ene | ⬜ Pendiente | Todo el mes |
+| T-08 | Agendar reunión con Team Coach (Julio César) | Valentín López | 29 Ene | ⬜ Pendiente | Definir plantilla Jira |
+| T-09 | Familiarizarse con flujo usando manual | Luis Alejandro Peraza (NTT) | 29 Ene | ⬜ Pendiente | Pre-requisito pruebas |
 
 ---
 
@@ -29,67 +31,58 @@
 
 | ID | Tarea | Owner | Fecha | Status | Notas |
 |----|-------|-------|-------|--------|-------|
-| T-08 | Revisión de políticas de grupo que restringen instalación de software | Carlos Osvaldo (Arq) | 30 Ene | ⬜ Pendiente | Si se requiere |
-| T-09 | Pruebas de periféricos: Familiarización con software de captura (huella/firma) | Manuel Tinoco | 30 Ene | ⬜ Pendiente | - |
-| T-10 | Pruebas de conectividad: Verificación de acceso a portales y servicios web | Jorge Ceballos | 30 Ene | ⬜ Pendiente | - |
+| T-10 | Recepción de imagen Windows 11 | Daniel Soto | 30 Ene | ⬜ Pendiente | Enviada por Gustavo |
+| T-11 | Instalación de imagen en laptop campus | Daniel Soto + Marcos Alberto | 30 Ene | ⬜ Pendiente | Usar URL del manual |
+| T-12 | Revisión de políticas de grupo | Carlos Osvaldo (Arq) | 30 Ene | ⬜ Pendiente | Si se requiere |
 
 ---
 
-## 📅 Sin Fecha Definida (Por Agendar)
+## 📅 31 de Enero - 5 de Febrero
 
-### Configuración y Accesos
+| ID | Tarea | Owner | Fecha | Status | Notas |
+|----|-------|-------|-------|--------|-------|
+| T-13 | Validación de periféricos post-instalación (Morfo, cámara, escáner) | Equipo técnico | Post-instalación | ⬜ Pendiente | Riesgo: incompatibilidad imagen PC |
+| T-14 | Pruebas de conectividad a portales y servicios | Jorge Ceballos | 31 Ene | ⬜ Pendiente | - |
+| T-15 | Familiarización software captura (huella/firma) | Manuel Tinoco | 31 Ene | ⬜ Pendiente | - |
 
-| ID | Tarea | Owner | Status | Notas |
-|----|-------|-------|--------|-------|
-| T-11 | Gestión de usuario para acceso a equipo Laptop con arquitectura | Equipo | ⬜ Pendiente | - |
-| T-12 | Reunión con equipo habilitador de permisos y usuario de acceso a Laptop | Equipo | ⬜ Pendiente | - |
+---
 
-### Ejecución y Validación
+## 📅 Pruebas Integrales (Feb 3-5)
 
-| ID | Tarea | Owner | Status | Notas |
-|----|-------|-------|--------|-------|
-| T-13 | Traspaso de conocimientos: Intento de ejecución del flujo base en laptop ambientada | Jorge Ceballos | ⬜ Pendiente | - |
-| T-14 | Validación de entorno: Revisión de visibilidad de periféricos en laptop ambientada | Manuel Tinoco | ⬜ Pendiente | - |
-| T-15 | Depuración técnica: Identificación de errores de acceso en flujo de Registro | Jorge Ceballos | ⬜ Pendiente | - |
-| T-16 | Depuración técnica: Identificación de errores de acceso en flujo de Traspaso | Manuel Tinoco | ⬜ Pendiente | - |
+| ID | Tarea | Owner | Fecha | Status | Notas |
+|----|-------|-------|-------|--------|-------|
+| T-16 | Smoke test: Happy path flujo afiliación | Luis Alejandro Peraza (NTT) | 03-05 Feb | ⬜ Pendiente | Solo inicio a fin |
+| T-17 | Crear y mantener bitácora de impedimentos | Luis Alejandro Peraza (NTT) | Inicio pruebas | ⬜ Pendiente | No defectos, solo impedimentos |
+| T-18 | Prueba integral: Proceso de Registro completo | Jorge Ceballos | 03-05 Feb | ⬜ Pendiente | Cero errores |
+| T-19 | Prueba integral: Proceso de Traspaso completo | Manuel Tinoco | 03-05 Feb | ⬜ Pendiente | Cero errores |
 
-### Pruebas Integrales
+---
 
-| ID | Tarea | Owner | Status | Notas |
-|----|-------|-------|--------|-------|
-| T-17 | Prueba integral: Ejecución completa del proceso de Registro (Cero errores) | Jorge Ceballos | ⬜ Pendiente | - |
-| T-18 | Prueba integral: Ejecución completa del proceso de Traspaso (Cero errores) | Manuel Tinoco | ⬜ Pendiente | - |
-| T-19 | Monitoreo de flujo "Happy path" Afiliación Registro/Traspaso | Equipo | ⬜ Pendiente | - |
+## 📅 Cierre y Entrega (6 Feb)
 
-### Gestión de Incidencias
+| ID | Tarea | Owner | Fecha | Status | Notas |
+|----|-------|-------|-------|--------|-------|
+| T-20 | Validación de Cierre: Happy Path 100% | Carlos Osvaldo (Arq) | 06 Feb | ⬜ Pendiente | - |
+| T-21 | Entrega de flujo documentado | Equipo | 06 Feb | ⬜ Pendiente | - |
+| T-22 | **ENTREGA DEL PROYECTO** | Carlos Osvaldo (Arq) | 06 Feb | ⬜ Pendiente | 🎯 Deadline |
 
-| ID | Tarea | Owner | Status | Notas |
-|----|-------|-------|--------|-------|
-| T-20 | Gestión de Incidencias: Escalar fallos de permisos durante ambientación | Carlos Osvaldo (Arq) | ⬜ Pendiente | Inmediato |
+---
 
-### Cierre y Entrega
+## 📅 Dependencias Externas
 
-| ID | Tarea | Owner | Status | Notas |
-|----|-------|-------|--------|-------|
-| T-21 | Validación de Cierre: Asegurar "Happy Path" al 100% y preparar correo de entrega | Carlos Osvaldo (Arq) | ⬜ Pendiente | - |
-| T-22 | Soporte técnico y ajustes finales de configuración | Jorge Ceballos | ⬜ Pendiente | - |
-| T-23 | Soporte técnico y entrega de flujo documentado | Equipo | ⬜ Pendiente | - |
-| T-24 | **ENTREGA DEL PROYECTO**: Presentación de laptop funcional y cierre de gestión | Carlos Osvaldo (Arq) | ⬜ Pendiente | 🎯 6 Feb |
-
-### Reuniones y Coordinación
-
-| ID | Tarea | Owner | Status | Notas |
-|----|-------|-------|--------|-------|
-
+| ID | Dependencia | Owner Externo | Fecha Límite | Status | Notas |
+|----|-------------|---------------|--------------|--------|-------|
+| D-01 | Componente sustitución de escáner | Equipo de Roberto | 06 Feb | ⬜ Pendiente | Mismo deadline |
+| D-02 | Imagen específica para laptops (si se requiere) | Proyectos Especiales | TBD | ⬜ Pendiente | Componentes Morfo |
 
 ---
 
 ## 📈 Resumen de Progreso
 
 ```
-Completadas:    0 / 25  [░░░░░░░░░░] 0%
-En Progreso:    0 / 25  [░░░░░░░░░░] 0%
-Pendientes:    25 / 25  [██████████] 100%
+Completadas:    4 / 22  [██░░░░░░░░] 18%
+En Progreso:    2 / 22  [█░░░░░░░░░] 9%
+Pendientes:    16 / 22  [███████░░░] 73%
 ```
 
 ---
@@ -99,6 +92,15 @@ Pendientes:    25 / 25  [██████████] 100%
 | ID | Descripción | Owner Resolución | Fecha Detectado | ETA Resolución |
 |----|-------------|------------------|-----------------|----------------|
 | - | Sin blockers críticos actualmente | - | - | - |
+
+---
+
+## ⚠️ Riesgos Identificados (Reunión 29/01)
+
+| Riesgo | Impacto | Mitigación |
+|--------|---------|------------|
+| Imagen basada en PC puede no funcionar con periféricos de laptop | Alto | Validar post-instalación, tener plan B con imagen específica |
+| Plataforma no se usará inicialmente | Medio | Enfocarse en flujos sin plataforma |
 
 ---
 
@@ -114,4 +116,4 @@ Pendientes:    25 / 25  [██████████] 100%
 
 ---
 
-*Última actualización: 28/01/2026*
+*Última actualización: 29/01/2026*

@@ -4,6 +4,48 @@
 
 ---
 
+## 29/01/2026 (Miércoles) - Día 2
+
+### 📊 Status: 🟢 On Track
+
+### ✅ Completado Hoy
+- Reunión de coordinación imagen Windows 11
+- Rigo envió formato de permisos firmado
+- Gustavo confirmó disponibilidad de imagen Win11
+- Documentación de minuta de reunión
+
+### 🚀 En Progreso
+- Gustavo enviando imagen Win11 a Daniel Soto
+- Luis Alejandro solicitando acceso campus (febrero)
+- Valentín agendando reunión con Team Coach (Julio César)
+
+### 🎯 Próximos Pasos
+- [ ] Daniel Soto recibe imagen Win11 (30 Ene)
+- [ ] Instalar imagen en laptop oficial del campus
+- [ ] Validar periféricos post-instalación
+- [ ] Luis Alejandro: familiarizarse con manual de flujo
+
+### ⚠️ Blockers
+- Ninguno crítico
+
+### 📝 Notas
+- ⚠️ Riesgo: Imagen basada en PC puede tener problemas con periféricos de laptop
+- Laptop oficial será la del campus, NO usar laptop personal
+- Solo se registrarán impedimentos (no defectos) ya que no se mueve código
+- **Daniel Castro** enviará correo con componentes y modificaciones de Desarrollo Especiales
+
+### 📌 Pendientes HOY
+
+| # | Pendiente | Owner | Status |
+|---|-----------|-------|--------|
+| 1 | Solicitar acceso campus febrero | Luis Alejandro (NTT) | ⬜ |
+| 2 | Agendar reunión Agile Coach (Julio César) | José Francisco | ⬜ |
+| 3 | Familiarizarse con flujo usando manual | Luis Alejandro (NTT) | ⬜ |
+| 4 | Correo componentes Desarrollo Especiales | Daniel Castro | ⬜ |
+| 5 | Sesión Agile Coach con tareas definidas | Valentín + Equipo | ⬜ |
+
+---
+
 ## 28/01/2026 (Martes) - Día 1
 
 ### 📊 Status: 🟡 En Progreso
@@ -11,6 +53,8 @@
 ### ✅ Completado Hoy
 - Setup inicial de documentación PM
 - Creación de estructura de tracking
+- T-01: Solicitud archivos ambiente espejo ✅
+- T-02: Cronograma de seguimiento ✅
 
 ### 🚀 En Progreso
 - Gestión de usuario Admin para máquina de pruebas
@@ -18,9 +62,7 @@
 - Sesión con Gustavo para obtener imagen de Windows 11
 
 ### 🎯 Próximos Pasos
-- [ ] Completar obtención de accesos
-
-
+- [x] Completar obtención de accesos
 
 ### ⚠️ Blockers
 - Ninguno crítico
@@ -31,43 +73,18 @@
 
 ---
 
-## Template para Nuevo Día
-
-```markdown
-## DD/MM/YYYY (Día) - Día X
-
-### 📊 Status: 🟢 On Track | 🟡 At Risk | 🔴 Blocked
-
-### ✅ Completado Hoy
-- 
-
-### 🚀 En Progreso
-- 
-
-### 🎯 Próximos Pasos
-- [ ] 
-
-### ⚠️ Blockers
-- 
-
-### 📝 Notas
-- 
-```
-
----
-
 ## Countdown
 
-| Fecha | Días Restantes | Hito Esperado |
-|-------|----------------|---------------|
-| 28/01 | 9 | Inicio documentación |
-| 29/01 | 8 | Accesos obtenidos |
-| 30/01 | 7 | Review As Is completado |
-| 31/01 | 6 | Fin Semana 1 |
-| 03/02 | 3 | Inicio pruebas |
-| 04/02 | 2 | Bug fixing |
-| 05/02 | 1 | Validación final |
-| 06/02 | 0 | 🚀 LAUNCH |
+| Fecha | Días Restantes | Hito Esperado | Status |
+|-------|----------------|---------------|--------|
+| 28/01 | 9 | Inicio documentación | ✅ |
+| 29/01 | 8 | Coordinación imagen Win11 | ✅ |
+| 30/01 | 7 | Recepción e instalación imagen | ⬜ |
+| 31/01 | 6 | Validación periféricos | ⬜ |
+| 03/02 | 3 | Inicio pruebas (smoke test) | ⬜ |
+| 04/02 | 2 | Bug fixing / impedimentos | ⬜ |
+| 05/02 | 1 | Validación final | ⬜ |
+| 06/02 | 0 | 🚀 LAUNCH | ⬜ |
 
 ---
 
