@@ -41,10 +41,10 @@
 | 1 | Instalar imagen Win11 en laptop (ambientar máquina) | Daniel Soto | ⬜ |
 | 2 | Alta de usuarios programadores con permisos sys/temp (carta firmada) | Alberto Cebreros | ⬜ |
 | 3 | Solicitar acceso campus febrero | Luis Alejandro (NTT) | ⬜ |
-| 4 | Agendar reunión Agile Coach (Julio César) | José Francisco | ⬜ |
+| 4 | Agendar reunión Agile Coach (Julio César) | José Francisco | ✅ Agendada 30 Ene 10:30 |
 | 5 | Familiarizarse con flujo usando manual | Luis Alejandro (NTT) | ⬜ |
 | 6 | Correo componentes Desarrollo Especiales | Daniel Castro | ⬜ |
-| 7 | Sesión Agile Coach con tareas definidas | Valentín + Equipo | ⬜ |
+| 7 | Sesión Agile Coach con tareas definidas | Valentín + Equipo | 📅 Mañana 10:30 |
 
 ---
 
