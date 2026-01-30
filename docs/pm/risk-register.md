@@ -13,7 +13,7 @@
 | R-003 | Bugs críticos encontrados cerca del deadline | Alta | Alto | 🔴 Crítico | Manuel/Jorge | Buffer tiempo, solo impedimentos (no defectos), priorización P0 | ⬜ Pendiente |
 | R-004 | Falta de documentación técnica existente | Baja | Medio | 🟡 Medio | José Francisco | Manual existente disponible, sesiones con Osvaldo | 🟢 Mitigado |
 | R-005 | Dependencias de red/infraestructura | Media | Alto | 🔴 Crítico | TBD | Verificar conectividad temprana, Zscaler habilitado | ⬜ Pendiente |
-| R-006 | Incompatibilidad drivers Morfo con laptop | Media | Alto | 🔴 Crítico | Proyectos Especiales | Manual validación dispositivos, posible imagen específica laptops | 🟡 Monitoreando |
+| R-006 | Incompatibilidad drivers Morfo con laptop | Media | Alto | 🟢 Bajo | Proyectos Especiales | ✅ Validada toma de huellas funcionando con componentes actualizados | 🟢 Mitigado |
 | R-007 | Retraso en entrega componente escáner (equipo Roberto) | Media | Alto | 🔴 Crítico | N/A (externo) | Mismo deadline 6 Feb, coordinación constante | ⬜ Pendiente |
 | R-008 | Plataforma no funcional inicialmente | Baja | Medio | 🟡 Medio | Gustavo López | No se usará al inicio, enfoque en flujos sin plataforma | ⬜ Aceptado |
 
