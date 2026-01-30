@@ -2,6 +2,8 @@
 
 > **Status General**: 🟢 On Track | **Deadline**: 6 Feb 2026 | **Días restantes**: 7
 
+Epica Jira: https://coppelmx.atlassian.net/browse/PRHBAF-499?search_id=c2f886ae-6f60-426c-90dc-77c86f0dfeda
+
 ---
 
 
